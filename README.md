@@ -28,4 +28,4 @@
 
 
 ## 결과
-**[PPTX 다운로드](결과/clos.pptx)**
+**[결과 ppt](결과/clos.pptx)**
